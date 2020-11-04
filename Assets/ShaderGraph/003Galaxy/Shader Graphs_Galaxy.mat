@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_Galaxy
+  m_Shader: {fileID: -6465566751694194690, guid: fa7e181f79826c946b3bb6efea7ac790,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    MotionVector: User
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Cubemap_6CB4EDEF:
+        m_Texture: {fileID: 8900000, guid: 946877f947063b9409e9a4dc31e64f6e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Cubemap_C2D47296:
+        m_Texture: {fileID: 8900000, guid: f425a1bd0ffafe64396f5b3c579b5b78, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleCubemap_7DA84473_Cube_1:
+        m_Texture: {fileID: 8900000, guid: 946877f947063b9409e9a4dc31e64f6e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_C10CF89D: 2
+    - Vector1_E76DB1C5: 4
+    m_Colors:
+    - Color_2BD5A468: {r: 7.096108, g: 7.1183796, b: 7.129739, a: 0}
+    - Color_7729219D: {r: 0, g: 8, b: 6.4, a: 0}
+    - Color_AA1467D0: {r: 0.98222226, g: 1, b: 0.28773582, a: 0}
+    - Vector2_3FEEE1C: {r: 0, g: -0.3, b: 0, a: 0}
+    - Vector3_B1282901: {r: 1.68, g: 0, b: 0, a: 0}
