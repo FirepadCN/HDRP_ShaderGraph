@@ -39,8 +39,8 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_29e6d3d430aa4d63bd8c8ebea00ee9b6: 0.29
-    - Vector1_b2d6e6d0a0fc481990e5cfe6b72ebd79: 0.28
+    - Vector1_29e6d3d430aa4d63bd8c8ebea00ee9b6: 2.98
+    - Vector1_b2d6e6d0a0fc481990e5cfe6b72ebd79: 0.54
     - _AddPrecomputedVelocity: 0
     - _AlphaCutoffEnable: 0
     - _AlphaDstBlend: 10
@@ -83,8 +83,8 @@ Material:
     - _ZTestTransparent: 4
     - _ZWrite: 0
     m_Colors:
-    - Color_309aa63ade384318869d554093e11ad2: {r: 0, g: 4.203922, b: 11.984314, a: 0.43137255}
-    - Color_92dd921589654b3899faf1c67afada5a: {r: 0, g: 13.113688, b: 22.363522, a: 0}
+    - Color_309aa63ade384318869d554093e11ad2: {r: 0, g: 2.1827815, b: 11.984314, a: 0.43137255}
+    - Color_92dd921589654b3899faf1c67afada5a: {r: 0, g: 13.44175, b: 19.153584, a: 0}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []

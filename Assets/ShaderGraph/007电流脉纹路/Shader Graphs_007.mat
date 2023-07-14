@@ -88,7 +88,9 @@ Material:
     - _ZTestTransparent: 4
     - _ZWrite: 1
     m_Colors:
-    - Color_b267ab1fd9bc4ed28be7630a19d222aa: {r: 85.445015, g: 26.136124, b: 0, a: 0}
+    - Color_b267ab1fd9bc4ed28be7630a19d222aa: {r: 667.709, g: 0, b: 27.96687, a: 0}
+    - Color_b267ab1fd9bc4ed28be7630a19d222aa_1: {r: 0, g: 24.207516, b: 445.72195,
+        a: 0}
     - Vector2_170d4f9e265b433cb92c69137bf667b8: {r: -0.05, g: -0.5, b: 0, a: 0}
     - Vector2_aa71c2bdd33349c39c20d977c9eaee3e: {r: 0.05, g: 0.5, b: 0, a: 0}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
